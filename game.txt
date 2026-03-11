@@ -1,0 +1,3 @@
+Konsep game 2D sederhana.
+Player menghindari musuh.
+Player mengumpulkan koin.
